@@ -67,6 +67,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Freelance",
+      link: "https://bforsyth.dev",
       badges: ["Freelance"],
       title: "Developer & Designer",
       logo: ParabolLogo,
