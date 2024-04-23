@@ -72,17 +72,18 @@ export const RESUME_DATA = {
       title: "Developer & Designer",
       logo: ParabolLogo,
       start: "2017",
-      end: "Present",
+      end: " - ",
       description:
         "• Services including but not limited to: shopify and e-commerce sites, web and graphic design, search engine optimization, web consulting, social media management, automating business solutions, and implementing artifical intelligence into business scenarios.",
     },
     {
       company: "Moana++",
-      link: "https://disney.onl",
+      link: "https://disney.pm",
       badges: ["Remote","Web Design","Social Media Marketing"],
       title: "Developer → Systems Administrator",
       logo: DisneyLogo,
       start: "2021",
+      end: " - ",
       description:
         "Designed and administrated website and community spaces. (Next.js, Code Documentation, Discord, Forums) Automated gameplay data analysis using Python scripts.",
     },
