@@ -195,23 +195,23 @@ export const RESUME_DATA = {
         href: "https://barepapers.com/",
       },
     },
-    {
-      title: "Placeholder",
-      techStack: [
-        "Lead Frontend Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "Placeholder",
-      logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
-      },
-    },
+    // {
+    //   title: "Placeholder",
+    //   techStack: [
+    //     "Lead Frontend Developer",
+    //     "TypeScript",
+    //     "React",
+    //     "Node.js",
+    //     "GraphQL",
+    //   ],
+    //   description:
+    //     "Placeholder",
+    //   logo: EvercastLogo,
+    //   link: {
+    //     label: "evercast.us",
+    //     href: "https://www.evercast.us/",
+    //   },
+    // },
     {
       title: "b-b.blue",
       techStack: ["Lead Android Developer", "Android", "Kotlin"],
