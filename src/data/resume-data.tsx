@@ -72,6 +72,7 @@ export const RESUME_DATA = {
       title: "Developer & Designer",
       logo: ParabolLogo,
       start: "2017",
+      end: "Present",
       description:
         "• Services including but not limited to: shopify and e-commerce sites, web and graphic design, search engine optimization, web consulting, social media management, automating business solutions, and implementing artifical intelligence into business scenarios.",
     },
